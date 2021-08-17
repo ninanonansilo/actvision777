@@ -1,0 +1,29 @@
+﻿{
+	"1": {
+		"time": {
+			"year": "2021",
+			"month": "8",
+			"day": "17",
+			"hour": "15",
+			"minute": "42",
+			"second": "52"
+		},
+		"detail_info": {
+			"x": "0",
+			"y": "0",
+			"width": "0",
+			"height": "0",
+			"scroll_fix": "0",
+			"play_speed": "3",
+			"play_count": "10",
+			"play_second": "0",
+			"font_name": "NotoSansCJK-Regular.ttc",
+			"font_size": "64",
+			"thickness_italics": "0",
+			"red_green_blue": "(205, 19, 19)"
+		},
+		"type": "string",
+		"action": "play",
+		"title": ""
+	}
+}
